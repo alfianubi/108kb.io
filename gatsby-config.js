@@ -126,7 +126,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: ['roboto:400,400i,500,700'],
+        fonts: [
+          'roboto:400,400i,500,700',
+          'source serif pro:400,500,700'
+        ],
       },
     },
     {
