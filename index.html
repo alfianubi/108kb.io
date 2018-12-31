@@ -26,7 +26,7 @@
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         color: #485d6f;
-        font-family: "Operator Mono", monospace;
+        font-family: "Source Serif Pro", monospace;
         line-height: 1.8rem;
         margin: 0;
         padding: 0;
@@ -209,5 +209,15 @@
 
       <footer class="o-footer u-color-gray">&copy; 2018-present 108kb</footer>
     </div>
+    <script>
+      requestAnimationFrame(function () {
+        const link = document.createElement('link')
+        const head = document.getElementsByTagName('head')[0]
+
+        link.rel = 'stylesheet'
+        link.href = 'https://fonts.googleapis.com/css?family=Source+Serif+Pro'
+        head.parentNode.insertBefore(link, head)
+      })
+    </script>
   </body>
 </html>
