@@ -6,7 +6,7 @@ draft: false
 /ath: "/hello-world/"
 category: "Life"
 tags: ["Journal"]
-description: "New identity, new life, new new hopes."
+description: "New identity, new life, new hopes."
 ---
 
 2018 beberapa jam lagi akan selesai, diganti dengan tahun 2019. Tidak ada yang spesial
@@ -134,10 +134,6 @@ gue simpen dilain tempat.
 Karena menabung hanya menyimpan, gue ingin mencoba meng-investasikan nya, agar apa yang gue simpan berkembang. Entah berkembang semakin banyak, atau malah ngurang hehe.
 Sekarang investasi nya yang real-real aja dulu: Ilmu & Kesehatan. Walau sedikit _bullshit_, gue kira lu semua suka dengan omong kosong gue haha.
 
-### TBD
-
-Kalau ingat.
-
 ## Something I hate in 2018
 
 ### Overthinking in relationship
@@ -147,7 +143,7 @@ Di tahun 2018 ini, gue terlalu memikirkan tentang status gue yang single.
 Oke, jomblo.
 
 Terlebih ketika gue sedang merasa kesepian, atau sedang _down_. Semoga ditahun 2019 nanti
-gue enggak terlalu memikirkan tentang relationship, karena relation enggak bikin gue sarjana.
+gue enggak terlalu memikirkan tentang relationship, karena relationship enggak bikin gue sarjana.
 
 Apalagi bikin kaya.
 
@@ -162,7 +158,24 @@ Penyakit klasik untuk mereka yang ingin memulai proyek sampingan: Tidak kelar. K
 tidak di ship. Sekarang gue udah tau kapibilitas gue dalam memulai side project itu sampai mana, semoga
 bila memang ada rencana untuk memulai projek sampingan lagi gue akan benar-benar teliti.
 
-## Sampai sini dulu
 
-Nanti akan gue lanjut, karena sekarang jam 00:00 WIB sebentar lagi. Upnormal sudah ramai dengan orang-orang
-yang entah mau ngapain.
+### Subscription for something that I don't (actually) need
+
+Di tahun 2018 banyak juga layanan yang gue sewa, dan padahal tidak terlalu berguna dalam hidup gue.
+Di tahun 2019 nanti gue harap gue hanya menyewa layanan yang benar-benar sekiranya sangat berguna dalam
+hidup gue.
+
+## 2019, here we go!
+
+Thanks for 2018, banyak pelajaran yang gue dapat. Waktunya move on, pelajari; Hindari, dan perbaiki
+kesalahan yang sudah gue buat ditahun 2018 kemarin.
+
+Di tahun ini akan fokus mempelajari Software Development dari sisi Management. Functional programming pun
+ada di list yang gue pelajari di 2019 (meskipun gue mulai nya dari 2018, dan belum selesai
+mempelajarinya sampai sekarang)
+
+### Perempuan
+
+Masih mengharapkan dia. Orang pertama yang membuat gue berani menjabat tangannya
+dan langsung berkenalan dengannya tanpa perantara. Semoga dia sehat selalu, dilancarkan
+rezekinya, dan selalu dihindarkan dari marabahaya. I support you from here silently, baby!
