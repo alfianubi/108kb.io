@@ -7,7 +7,7 @@ module.exports = {
     url: 'https://108kb.io/blog/',
     title: 'Blog by Fariz Rizaldy',
     subtitle: 'A Pragmatic Frontend Engineer who focused on User Interfaces Engineering',
-    copyright: '© 2018 - Present. All rights reserved.',
+    copyright: '© 2018-present. All rights reserved.',
     disqusShortname: '',
     menu: [
       {
