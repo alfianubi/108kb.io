@@ -30,6 +30,11 @@
         line-height: 1.8rem;
         margin: 0;
         padding: 0;
+        -webkit-animation: bhaaa 1s;
+        -moz-animation: bhaaa 1s;
+        -ms-animation: bhaaa 1s;
+        -o-animation: bhaaa 1s;
+        animation: bhaaa 1s;
       }
 
       ::selection {
@@ -110,16 +115,42 @@
           padding: 1rem;
         }
       }
+      @keyframes bhaaa {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      @-moz-keyframes bhaaa {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      @-webkit-keyframes bhaaa {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
     </style>
     <script>
       // :))
-      window.dataLayer = window.dataLayer || [];
+      window.dataLayer = window.dataLayer || []
       function gtag() {
-        dataLayer.push(arguments);
+        dataLayer.push(arguments)
       }
-      gtag("js", new Date());
+      gtag('js', new Date())
 
-      gtag("config", "UA-131540514-1");
+      gtag('config', 'UA-131540514-1')
     </script>
   </head>
 
