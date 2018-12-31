@@ -1,7 +1,8 @@
 {
   "name": "108kb",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "bin": "./cli.js",
+  "files": ["cli.js"],
   "dependencies": {
     "opn": "5.4.0"
   }
