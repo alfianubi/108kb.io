@@ -247,7 +247,7 @@
 
         link.rel = 'stylesheet'
         link.href = 'https://fonts.googleapis.com/css?family=Source+Serif+Pro'
-        head.parentNode.insertBefore(link, head)
+        head.insertBefore(link, head.childNodes[head.childNodes.length - 1])
       })
     </script>
   </body>
