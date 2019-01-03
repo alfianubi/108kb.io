@@ -4,12 +4,21 @@
  * @author Lea Verou
  */
 
+.post-single__body .gatsby-highlight {
+  margin-left: -15px !important;
+  margin-right: -15px !important;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}
+
 code[class*="language-"],
 pre[class*="language-"] {
     color: black;
     background: none;
+    border-radius: 0px;
     text-shadow: 0 1px white;
-    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    font-family: "IBM Plex Mono", 'Ubuntu Mono', monospace;
+    font-size: 14px;
     text-align: left;
     white-space: pre;
     word-spacing: normal;
@@ -25,6 +34,20 @@ pre[class*="language-"] {
     -moz-hyphens: none;
     -ms-hyphens: none;
     hyphens: none;
+}
+
+@include breakpoint-sm {
+  .post-single__body .gatsby-highlight {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+@include breakpoint-sm {
+  code[class*="language-"],
+  pre[class*="language-"] {
+    border-radius: 3px;
+  }
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
@@ -60,7 +83,7 @@ pre[class*="language-"] {
 
 /* Inline code */
 :not(pre) > code[class*="language-"] {
-    padding: .1em;
+    padding: .1em .5em;
     border-radius: .3em;
     white-space: normal;
 }
