@@ -11,6 +11,10 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
+        label: 'Tags',
+        path: '/tags/'
+      },
+      {
         label: 'Work',
         path: '/categories/work/'
       },
