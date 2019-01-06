@@ -34,7 +34,7 @@ module.exports = {
       vk: '#',
       twitter: '108kbps',
       github: '108kb',
-      rss: '/rss.xml',
+      rss: '/blog/rss.xml',
     },
   },
   plugins: [
