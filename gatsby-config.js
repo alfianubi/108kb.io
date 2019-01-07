@@ -8,7 +8,7 @@ module.exports = {
     title: 'Blog by Fariz Rizaldy',
     subtitle: 'A Pragmatic Frontend Engineer who focused on User Interfaces Engineering',
     copyright: '© 2018-present. All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: '108kb',
     menu: [
       {
         label: 'Tags',
