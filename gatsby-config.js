@@ -169,7 +169,7 @@ module.exports = {
           }),
       },
     },
-    'gatsby-plugin-offline',
+    'gatsby-plugin-remove-serviceworker',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     {
