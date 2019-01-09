@@ -13,7 +13,7 @@ Ditulisan ini saya ingin berbagi pengetahuan saya tentang lapisan-lapisan yang a
 
 Entah mengapa saya tergerak untuk berbagi tulisan ini. Meskipun setiap Web App mungkin memiliki lapisan-lapisan yang berbeda untuk end-user, namun saya rasa hampir setiap "Scalable" web app memiliki lampisan-lampisan berikut. IMO, di Frontend, Web App memiliki 5 lapisan. Saya gambar deh biar keren:
 
-![](./Screen Shot 2019-01-05 at 00.25.36.png)
+![](./lapisan.png)
 
 Okay I'm bad at drawing. Sengaja tidak saya beri label agar tulisan ini sedikit panjang. Lapisan yang berwarna tomato adalah apa yang dilihat oleh pengguna akhir nanti, mari kita bahas satu-satu.
 
@@ -41,7 +41,7 @@ Sebelum membahas secara detail, akan saya tulis lapisan-lapisan apa saja yang ad
 
 Jika kita mendesain suatu Web App yang Scalable, Analytics merupakan bagian yang sangat penting. We can assuming, but data tell the truth. Bagaimana bisa kita mendapatkan data, bila kita tidak mengumpulkannya? Minta dari orang?
 
-![](./Screen Shot 2019-01-05 at 00.49.27.png)
+![](./analytics.png)
 
 Mengapa analytics berada dipaling bawah? Karena analitik mencakup semuanya. Bahasa apa yang dipilih oleh pengguna? Aksi apa yang dilakukan oleh pengguna? Tombol mana yang paling menarik pengguna? Apakah logic sesuai dengan bisnis? Berapa banyak kah yang mengakses halaman ini? Dan lain-lain.
 
@@ -59,11 +59,11 @@ Data has the answer.
 
 i18n penting untuk membuat scalable Web App. Karena aplikasi adalah tentang bisnis, menjangkau lebih banyak kustomer merupakan tujuan setiap pemilik bisnis, setuju? Kita sadar bahwa pangsa pasar kita adalah orang Indonesia, tapi tidak menutup kemungkinan juga pangsa pasar kita bisa lebih luas. Jika Web App/Bisnis kita sudah dirancang untuk Scalable, tentu masalah tersebut bisa ditangani tanpa perlu effort yang lumayan besar.
 
-![](./Screen Shot 2019-01-05 at 01.05.21.png)
+![](./internationalizations.png)
 
 No offense, saya mengambil beberapa contoh dari bisnis yang sudah ada dipasaran Indonesia. Pertama dari Ecommerce, Tokopedia!
 
-![](./Screen Shot 2019-01-05 at 01.08.17.png)
+![](./tokopedia.png)
 
 Dihalaman paling bawahnya, Tokopedia memiliki pilihan untuk mengganti bahasa (Selain bahasa Indonesia!). Yang bisa diasumsikan, Tokopedia memiliki rencana untuk menjangkau pasar lebih luas selain untuk pengguna yang tidak menggunakan bahasa Indonesia (masa iya mereka membuat 2 pilihan bahasa karena iseng?)
 
@@ -81,7 +81,7 @@ i18n juga lumayan mahal untuk diterapkan, tapi seperti biasa: Bisa menggunakan p
 
 Standarisasi perlu. Saya memberi judulnya styling karena bingung ingin menamakan nya seperti apa. Dalam styling, biasanya ada 3 jenis (_order by complexity_: Design System, Pattern Library, dan Style Guide).
 
-![](./Screen Shot 2019-01-05 at 01.49.34.png)
+![](./styling.png)
 
 Yang paling mahal adalah design system, karena mencakup semua rancangan dalam system yang dibuat. Dari bagaimana "Copywriting" disampaikan, bagaimana animasi berjalan, suara didengarkan, komponen ditampilkan, sampai ke bagaimana penerapan aksesibilitas untuk kaum difabel.
 
@@ -93,7 +93,7 @@ Yang lebih murah dari Design System adalah Pattern Library. Kita melihat tombol 
 
 Terakhir, Style Guide. Menurut saya, styleguide tidak terlalu terlihat impact nya untuk bisnis, namun lumayan berpengaruh untuk keperluan standarisasi dan konsistensi. Yaaa misal dalam penggunaan Font, pemilihan warna, pokoknya yaa yang terlihat secara visual lah. Enggak terlalu memusingkan bagaimana _shadow_ seharusnya ditampilkan, atau animasi/transisi yang terjadi (dan bagaimananya) ketika user ber-interaksi. Sederhana saja, meskipun tidak sesederhana itu.
 
-![](./Screen Shot 2019-01-05 at 01.43.35.png)
+![](./youtube.png)
 
 Meskipun penggunaan Font berbeda, tapi tetap konsistensi diterapkan disini. Dan hey! Itu huruf latin yang di menggunakan bahasa Arab, tetap ditampilkan dari kanan-ke-kiri. Mungkin karena orang sana sudah terbiasa membaca seperti itu.
 
@@ -101,7 +101,7 @@ Styling ini juga lumayan mahal biayanya (perasaan mahal semua ya dari awal?). Ad
 
 ### App Logic
 
-![](./Screen Shot 2019-01-05 at 02.04.06.png)
+![](./app-logic.png)
 
 Sudah mulai kebagian bagaimana user berinteraksi dengan web app kita sehingga memenuhi keinginan kita. Simplenya (contoh):
 

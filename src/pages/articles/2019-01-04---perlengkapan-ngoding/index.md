@@ -13,7 +13,7 @@ Ada yang nanya di Telegram: _Mas, peralatan untuk ngoding nya apa aja klo boleh 
 
 ## Mesin
 
-![](./Screen Shot 2019-01-04 at 20.00.45.png)
+![](./perlengkapan-ngoding-mesin.png)
 
 I work in any UNIX environment. My daily use is Mac OS X, but if only Linux in the options, it should be [Elementary](https://elementary.io). Elementary OS adalah OS favorit gue sebelum menggunakan Mac, selain elementary gue lebih suka KDE (entah mengapa gue kurang senang dengan GNOME).
 
@@ -29,7 +29,7 @@ Gue menggunakan ZSH, karena ekosistemnya (hello [OhMyZSH](https://ohmyz.sh)!). E
 
 ## Code Editor
 
-![](./Screen Shot 2019-01-04 at 20.02.22.png)
+![](./perlengkapan-ngoding-editor.png)
 
 Karena 80% workflow gue berada di terminal, code editor favorit gue adalah Vim (tapi menggunakan [NeoVim](https://neovim.io)). Gue sudah familiar dengan berbagai _command_ yang ada di Vim, sampai membuat key binding gue sendiri. Sebelumnya menggunakan VSCode, entah kenapa gue merasa lebih fokus ketika menggunakan Vim.
 
