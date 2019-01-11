@@ -3,7 +3,7 @@ title: Hello 2019!
 date: "2018-12-31T16:50:00.000Z"
 layout: post
 draft: false
-path: "/hello-world/"
+path: "/hello-2019/"
 category: "Life"
 tags: ["Journal"]
 description: "New identity, new life, new hopes."
