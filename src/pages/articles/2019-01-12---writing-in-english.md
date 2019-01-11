@@ -94,4 +94,4 @@ Enjoy your Saturday, love you!
 
 Bangsat ini keren juga pake bahasa inggris gini. Goodbye _atuh_, _dong_, and _sih_ 😂
 
-P.S: Because I will writing in English, I will reduce publishing a post in Medium. Let they (a new Visitor) discover my post from the Search Engine. After I confidence enough in writing in English, I will do active on Medium anymore
+P.S: Because I will writing in English, I will reduce publishing a post in Medium. Let they (a new Visitor) discover my post from the Search Engine. After I confidence enough in writing in English, I will do active on Medium again
