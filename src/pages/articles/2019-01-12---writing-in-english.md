@@ -21,7 +21,7 @@ Something I don't know why is 43% of my traffic came from non-Indonesia country,
 
 Except that reason--which I told you in second paragraph--something I worry about writing in English is I'm not a native speaker/writer in English. Maybe that's not a big problem as long as I learn from my mistakes. My honest reason was: Big competition.
 
-My competition in publishing a post in my niche (Frontend Development) is no longer in Indonesia scope. There are so many cool blog I've to admit like [overreacted.io](https://overreacted.io) by Dan Abramov (personal), [0Auth Blog](https://auth0.com/blog) by Auth0 (company), or some "collaborative platform" like Medium; Dev.to, and HashNode out there.
+My competition in publishing a post in my niche (Frontend Development) is no longer in Indonesia scope. There are so many cool blog I've to admit like [overreacted.io](https://overreacted.io) by Dan Abramov (personal), [Auth0 Blog](https://auth0.com/blog) by Auth0 (company), or some "collaborative platform" like Medium; Dev.to, and HashNode out there.
 
 And many of them are published by the expert. Who am I in here?
 
