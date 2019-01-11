@@ -10,6 +10,8 @@ body {
     font-family: $typographic-font-family;
     color: $typographic-base-font-color;
     line-height: $typographic-base-line-height;
+    word-spacing: 2px;
+    letter-spacing: 0.1337px;
     font-size: $typographic-base-font-size;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
