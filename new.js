@@ -37,7 +37,7 @@ const createFile = ({ isDir = false } = {}) => {
   }
 }
 
-const shouldAddZero = number => number < 9 && '0'
+const shouldAddZero = number => number <= 9 && '0'
 
 const date = new Date()
 const $date = shouldAddZero(date.getDate()) + date.getDate()
