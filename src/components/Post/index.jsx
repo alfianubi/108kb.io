@@ -11,7 +11,7 @@ class Post extends React.Component {
       category,
       description,
     } = this.props.data.node.frontmatter
-    const { slug, categorySlug } = this.props.data.node.fields
+    const { slug, categorySlug, readingTime } = this.props.data.node.fields
 
     return (
       <div className="post">
@@ -27,6 +27,9 @@ class Post extends React.Component {
             <Link to={categorySlug} className="post__meta-category-link">
               {category}
             </Link>
+          </span>
+          <span>
+            {` • ${readingTime ? readingTime.text : ''} `}
           </span>
         </div>
         <h2 className="post__title">

@@ -32,9 +32,14 @@ class PostTemplateDetails extends React.Component {
           <div className="post-single__inner">
             <h1 className="post-single__title">{post.frontmatter.title}</h1>
             <div className="post-single__date">
-              <em>
+              <span>
                 Published {moment(post.frontmatter.date).format('D MMM YYYY')}
-              </em>
+              </span>
+              <span>{`  •  `}</span>
+              <span>{`  ☕️ `}</span>
+              <span>
+                {post.fields.readingTime ? post.fields.readingTime.text : ''}
+              </span>
             </div>
             <div
               className="post-single__body"
