@@ -19,8 +19,7 @@ just for knowing how "Management" works in Software Engineering field.
 
 ## Side-project I'm working on
 
-I have so many idea that failed before I start it. Now in my spare time, I'm curating a resources for developer
-for learning. I have so many domains, and I think [codemonkey.id](https://codemonkey.id) is the good ones
+[Evilfactory!](https://evilfactory.id). To lower the barriers new developer preparing theirself facing the industry. Current project that evilfactory working on was a digital product to make writer easier in publishing an articles (1 new "member")
 
 ## Hacking
 
@@ -29,8 +28,10 @@ Developer/Programmer. I have no plan to learning/reading "language-specific" or 
 I think my knowledge about those is enough. Something I should develop is the way I think, abstraction, and some human-related
 topics in Software Engineering field.
 
+Also, in this year I'm focusing on learning to writing a Test in Software Engineering.
+
 ## Books
 
-I dont read any physical book. But I do read an ebook on my Kindle for now. I hope integration between Goodreads & my Kindle works, then you can [see it here](https://108kb.io/go/goodreads/).
+I dont read any physical book. But I do read an ebook on my Kindle for now. I hope integration between Goodreads & my Kindle works, then you can [see it here](https://108kb.io/go/goodreads/). Spoiler alert: I'm reading Patterns of Enterprise Application architecture by Martin Fowler and Clean Code by Uncle Bob.
 
-_Last updated at: Jan 06, 2019 01:50 UTC +7 from Dipatiukur, Bandung._
+_Last updated at: Feb 02, 2019 16:12 UTC +7 from Dipatiukur, Bandung._
