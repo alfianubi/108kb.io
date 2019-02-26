@@ -63,7 +63,7 @@ Belajar lebih keras.
 
 Lebih giat.
 
-Ketika sudah menjadi seseorang, [knowledge gap](https://news.ycombinator.com/item?id=18780065) pun menjadi
+Ketika sudah menjadi seseorang, [knowledge gap](https://overreacted.io/things-i-dont-know-as-of-2018/) pun menjadi
 [sesuatu](https://news.ycombinator.com/item?id=18780065).
 
 Love you.
