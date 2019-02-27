@@ -77,6 +77,7 @@
       }
 
       .o-heading {
+	font-family: "IBM Plex Mono", sans-serif;
         font-size: 1.4rem;
         font-weight: bold;
         margin: 30px 0 20px 0;
@@ -93,8 +94,8 @@
         color: #a7aeb4;
       }
 
-      .u-fs-18px {
-        font-size: 18px;
+      .u-fs-17px {
+        font-size: 17px;
       }
 
       .u-ml-sm {
@@ -107,6 +108,10 @@
 
       .u-mb-md {
         margin-bottom: 2.5rem;
+      }
+
+      .u-ff-ipm {
+        font-family: "IBM Plex Mono", sans-serif;
       }
 
       @media screen and (min-width: 40rem) {
@@ -193,7 +198,7 @@
         <div class="o-heading">experiences</div>
 
         <div class="u-ml-sm">
-          <h4 class="u-mb0 u-fs-18px">
+          <h4 class="u-mb0 u-fs-17px u-ff-ipm">
             <span> UI Engineer at </span>
             <a href="https://tarsius.id">Tarsius Research</a>
             <small class="u-color-gray"> December 2018 - Present </small>
@@ -208,7 +213,7 @@
         </div>
 
         <div class="u-ml-sm">
-          <h4 class="u-mb0 u-fs-18px">
+          <h4 class="u-mb0 u-fs-17px u-ff-ipm">
             <span> Lead Frontend Engineer at </span>
             <a href="https://kelaskita.com">PT. KelasKita Edukasi Indonesia</a>
             <small class="u-color-gray"> May 2017 - December 2018 </small>
@@ -223,7 +228,7 @@
         </div>
 
         <div class="u-ml-sm">
-          <h4 class="u-mb0 u-fs-18px">
+          <h4 class="u-mb0 u-fs-17px u-ff-ipm">
             <span> Frontend Developer Contract at </span>
             <a href="https://www.upwork.com">Upwork</a>
             <small class="u-color-gray"> February 2015 - April 2017 </small>
@@ -273,7 +278,7 @@
         const head = document.getElementsByTagName('head')[0]
 
         link.rel = 'stylesheet'
-        link.href = 'https://fonts.googleapis.com/css?family=Source+Serif+Pro'
+        link.href = 'https://fonts.googleapis.com/css?family=Source+Serif+Pro|IBM+Plex+Mono:700'
         head.insertBefore(link, head.childNodes[head.childNodes.length - 1])
       })
     </script>
