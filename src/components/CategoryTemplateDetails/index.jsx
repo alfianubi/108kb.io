@@ -15,6 +15,17 @@ class CategoryTemplateDetails extends React.Component {
         <div className="content__inner">
           <div className="page">
             <h1 className="page__title">{category}</h1>
+            {category === 'Work' &&
+              <React.Fragment>
+                <p>
+                  Hi, thanks for visiting up. Probably I don't write any technical posts anymore here.
+                </p>
+                <p>
+                  I have no idea what I'm doing, if you are my old visitor it seems you have known me. With love, find
+                  me anywhere.
+                </p>
+              </React.Fragment>
+            }
             <div className="page__body">{items}</div>
           </div>
         </div>
