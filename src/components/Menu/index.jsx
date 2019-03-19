@@ -9,14 +9,6 @@ class Menu extends React.Component {
     const menuBlock = (
       <ul className="menu__list">
         <li className="menu__list-item">
-          <Link
-            to='/'
-            className="menu__list-item-link"
-          >
-            About
-          </Link>
-        </li>
-        <li className="menu__list-item">
           <a
             href="https://resume.108kb.io"
             className="menu__list-item-link"
