@@ -1,0 +1,12 @@
+nama = "Alfian Al Ayubi"
+tipe = "Pemalas"
+def help():
+  nama = "Fariz Rizaldy"
+  tipe = "Rajin"
+  
+  print("Kadidat 1: %s")% nama
+  print("Tipe: %s")% tipe
+  
+ print("Kadidat 2: %s")% nama
+ print("Tipe: %s")% tipe
+ help()
